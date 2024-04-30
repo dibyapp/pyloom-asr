@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+PyloomASR.egg-info/PKG-INFO
+PyloomASR.egg-info/SOURCES.txt
+PyloomASR.egg-info/dependency_links.txt
+PyloomASR.egg-info/requires.txt
+PyloomASR.egg-info/top_level.txt
+pyloom_asr/__init__.py
+pyloom_asr/pyloom_asr.py
